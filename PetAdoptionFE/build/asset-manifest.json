@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca25d439.css",
+    "main.js": "/static/js/main.31be7710.js",
+    "static/js/787.24a484f2.chunk.js": "/static/js/787.24a484f2.chunk.js",
+    "static/media/quattrocento-all-400-normal.woff": "/static/media/quattrocento-all-400-normal.96d8216af154d874d395.woff",
+    "static/media/quattrocento-latin-400-normal.woff2": "/static/media/quattrocento-latin-400-normal.4367317ec95160d01f76.woff2",
+    "static/media/oswald-all-700-normal.woff": "/static/media/oswald-all-700-normal.01e3abbd0268a7300239.woff",
+    "static/media/oswald-latin-700-normal.woff2": "/static/media/oswald-latin-700-normal.c844a55c70de8d13ea46.woff2",
+    "static/media/oswald-latin-ext-700-normal.woff2": "/static/media/oswald-latin-ext-700-normal.050049ff6fc8c685ff99.woff2",
+    "static/media/quattrocento-latin-ext-400-normal.woff2": "/static/media/quattrocento-latin-ext-400-normal.fcc927a88fe2e245d186.woff2",
+    "static/media/oswald-cyrillic-700-normal.woff2": "/static/media/oswald-cyrillic-700-normal.1a083d1777c1b1d2746e.woff2",
+    "static/media/oswald-vietnamese-700-normal.woff2": "/static/media/oswald-vietnamese-700-normal.c0a8b0eb6350c3d962d7.woff2",
+    "static/media/oswald-cyrillic-ext-700-normal.woff2": "/static/media/oswald-cyrillic-ext-700-normal.99241c2d7f661f6e5cfd.woff2",
+    "index.html": "/index.html",
+    "main.ca25d439.css.map": "/static/css/main.ca25d439.css.map",
+    "main.31be7710.js.map": "/static/js/main.31be7710.js.map",
+    "787.24a484f2.chunk.js.map": "/static/js/787.24a484f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca25d439.css",
+    "static/js/main.31be7710.js"
+  ]
+}
